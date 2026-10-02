@@ -1,0 +1,71 @@
+▲ Next.js 16.3.5 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://21.0.12.99:3000
+✓ Ready in 310ms
+✓ Running next.config.ts took 36ms
+Attention: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+https://nextjs.org/telemetry
+
+
+○ Compiling / ...
+ GET / 200 in 4.6s (next.js: 4.4s, application-code: 170ms)
+ GET / 200 in 46ms (next.js: 11ms, application-code: 35ms)
+ GET / 200 in 37ms (next.js: 3ms, application-code: 34ms)
+ GET / 200 in 122ms (next.js: 3ms, application-code: 118ms)
+ GET / 200 in 35ms (next.js: 4ms, application-code: 31ms)
+ GET / 200 in 33ms (next.js: 3ms, application-code: 30ms)
+ GET / 200 in 28ms (next.js: 3ms, application-code: 25ms)
+ GET / 200 in 28ms (next.js: 2ms, application-code: 26ms)
+ GET / 200 in 40ms (next.js: 3ms, application-code: 37ms)
+ GET / 200 in 31ms (next.js: 5ms, application-code: 26ms)
+✓ Compiled in 78ms
+⚠ Blocked cross-origin request to Next.js dev resource /__nextjs_font/geist-latin.woff2 from "preview-chat-aaca0b16-e224-47e5-88cb-ccf596a7fb1f.space-z.ai".
+Cross-origin access to Next.js dev resources is blocked by default for safety.
+
+To allow this host in development, add it to "allowedDevOrigins" in next.config.js and restart the dev server:
+
+// next.config.js
+module.exports = {
+  allowedDevOrigins: ['preview-chat-aaca0b16-e224-47e5-88cb-ccf596a7fb1f.space-z.ai'],
+}
+
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+✓ Compiled in 39ms
+ GET / 200 in 32ms (next.js: 3ms, application-code: 29ms)
+ GET / 200 in 52ms (next.js: 3ms, application-code: 49ms)
+ GET / 200 in 91ms (next.js: 3ms, application-code: 89ms)
+ GET / 200 in 30ms (next.js: 4ms, application-code: 27ms)
+ GET / 200 in 39ms (next.js: 2ms, application-code: 37ms)
+ GET / 200 in 31ms (next.js: 3ms, application-code: 28ms)
+ GET / 200 in 33ms (next.js: 2ms, application-code: 31ms)
+ GET / 200 in 27ms (next.js: 2ms, application-code: 25ms)
+ GET / 200 in 30ms (next.js: 3ms, application-code: 27ms)
+ GET / 200 in 67ms (next.js: 2ms, application-code: 65ms)
+ GET / 200 in 29ms (next.js: 2ms, application-code: 27ms)
+ GET / 200 in 31ms (next.js: 3ms, application-code: 28ms)
+ GET / 200 in 45ms (next.js: 2ms, application-code: 43ms)
+ GET / 200 in 33ms (next.js: 3ms, application-code: 30ms)
+ GET / 200 in 33ms (next.js: 4ms, application-code: 29ms)
+ GET / 200 in 40ms (next.js: 3ms, application-code: 37ms)
+ GET / 200 in 56ms (next.js: 3ms, application-code: 53ms)
+ GET / 200 in 28ms (next.js: 3ms, application-code: 25ms)
+ GET / 200 in 30ms (next.js: 2ms, application-code: 28ms)
+ GET / 200 in 33ms (next.js: 3ms, application-code: 30ms)
+ GET / 200 in 58ms (next.js: 4ms, application-code: 54ms)
+ GET / 200 in 39ms (next.js: 3ms, application-code: 36ms)
+ GET / 200 in 36ms (next.js: 2ms, application-code: 34ms)
+ GET / 200 in 30ms (next.js: 2ms, application-code: 28ms)
+ GET / 200 in 27ms (next.js: 2ms, application-code: 25ms)
+ GET / 200 in 28ms (next.js: 2ms, application-code: 26ms)
+ GET / 200 in 28ms (next.js: 2ms, application-code: 25ms)
+ GET / 200 in 105ms (next.js: 3ms, application-code: 103ms)
+ GET / 200 in 74ms (next.js: 2ms, application-code: 72ms)
+ GET / 200 in 80ms (next.js: 2ms, application-code: 77ms)
+ GET / 200 in 27ms (next.js: 2ms, application-code: 24ms)
+ GET / 200 in 49ms (next.js: 3ms, application-code: 46ms)
+ GET / 200 in 111ms (next.js: 2ms, application-code: 109ms)
+ GET / 200 in 29ms (next.js: 3ms, application-code: 26ms)
+ GET / 200 in 25ms (next.js: 2ms, application-code: 23ms)
+[?25h
