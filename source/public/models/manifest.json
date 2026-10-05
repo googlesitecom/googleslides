@@ -1,0 +1,10 @@
+{
+  "kart": "models/go_kart.glb",
+  "kartYaw": 0,
+  "tint": "none",
+  "kartBox": { "l": 3.05, "w": 2.0, "h": 1.7 },
+  "seat": { "x": 0, "y": 0.24, "z": -0.14, "scale": 0.62 },
+  "modelWheels": true,
+  "characters": {},
+  "props": {}
+}
